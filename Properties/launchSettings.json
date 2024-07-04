@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PdfCompressor": {
+      "commandName": "Project",
+      "commandLineArgs": "2022-1.pdf -e"
+    }
+  }
+}
